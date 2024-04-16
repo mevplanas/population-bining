@@ -3,3 +3,6 @@ output/
 
 .vscode/
 __pycache__/
+
+additional_data/
+venv/
